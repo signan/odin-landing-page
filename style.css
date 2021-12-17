@@ -1,0 +1,30 @@
+* {
+    background-color: white;
+
+    border: 2px solid red;
+
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.header-logo {
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-width: 100px;
+}
