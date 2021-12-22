@@ -1,30 +1,20 @@
-* {
-    background-color: white;
-
-    border: 2px solid red;
-
-}
-
-
-.flex-container {
+.header {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-left: 100px;
-    margin-right: 100px;
 }
 
-.flex-container2 {
+.hero {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-left: 100px;
-    margin-right: 100px;
 }
 
-.header-logo {
-    width: auto;
-    height: auto;
-    max-height: 100px;
-    max-width: 100px;
+.content-items {
+    display: flex;
+}
+
+.signup {
+    display: flex;
+}
+
+img {
+    height: 150px;
+    width: 150px;
 }
