@@ -1,18 +1,50 @@
+
+body {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .header {
     display: flex;
+    justify-content: center;
 }
 
 .hero {
     display: flex;
+    justify-content: center;
 }
 
 .content-items {
     display: flex;
+    justify-content: center;
 }
 
 .signup {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
 }
+
+.singup-text {
+    flex: 1;
+}
+
+.signup-button {
+    flex: 1;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+}
+
 
 img {
     height: 150px;
