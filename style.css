@@ -30,15 +30,20 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #3882F6;
+    color: white;
+    padding: 10px 80px;
+    margin: 50px 200px;
+    border-radius: 10px;
 }
 
-.singup-text {
+.singup-item {
     flex: 1;
 }
 
-.signup-button {
-    flex: 1;
+.signup-text {
+    text-align: left;
 }
+
 
 .footer {
     background-color: #1f2937;
