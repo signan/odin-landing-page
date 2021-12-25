@@ -36,12 +36,21 @@ body {
     border-radius: 10px;
 }
 
-.singup-item {
+.signup-item {
     flex: 1;
 }
 
 .signup-text {
     text-align: left;
+}
+
+.signup-button button {
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 7px;
+    padding: 5px 30px;
 }
 
 
