@@ -21,13 +21,28 @@ body {
     justify-content: center;
 }
 
+.content {
+    padding: 50px 250px;
+
+}
+
 .content-items {
     display: flex;
     justify-content: center;
 }
 
+.content-items img {
+    border: 5px solid #3882F6;
+    border-radius: 15px;
+}
+
+.content-items p {
+    color: #1f2937;
+    padding: 0px 30px;
+}
+
 .quote {
-    background-color: #E5E7Eb;
+    background-color: #f9faf8;
     padding: 40px 250px;
 }
 
