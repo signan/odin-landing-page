@@ -20,6 +20,20 @@ img {
     display: flex;
     justify-content: center;
     background-color: #1f2937;
+    padding: 20px 100px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.nav-links a {
+    padding: 10px;
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
 }
 
 .hero {
